@@ -56,9 +56,9 @@ The system allows users to manage a book store database, including adding, updat
 
    Alternatively, if you have Git installed on your system, you can clone the repository using the following command in your terminal:
 
-      git clone https://github.com/177smohammadzadeh/Bookstore-Management-System.git
+     - git clone https://github.com/177smohammadzadeh/Bookstore-Management-System.git
    
-      cd book-store-management
+     - cd book-store-management
 
 ## Usage
 
@@ -90,11 +90,11 @@ The system allows users to manage a book store database, including adding, updat
 
    /book-store-management
 
-   frontend.py    # Frontend script with the Tkinter UI
+   - frontend.py    # Frontend script with the Tkinter UI
 
-   backend.py     # Backend script for database operations
+   - backend.py     # Backend script for database operations
 
-   books.db       # SQLite database file
+   - books.db       # SQLite database file
 
 ## Backend Functions
 
