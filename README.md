@@ -4,7 +4,7 @@
 This is a Book Store Management System built using Python and Tkinter for the frontend, and SQLite for the backend. 
 The system allows users to manage a book store database, including adding, updating, searching, and deleting book records.
 
-# Features
+## Features
 
 - **Add a Book**: Add a new book to the database.
 - **Update a Book**: Update the details of an existing book.
@@ -16,9 +16,9 @@ The system allows users to manage a book store database, including adding, updat
 - **Backup**: Create a backup of the database to a CSV file.
 - **Delete All Copies**: Delete all copies of a specific book.
 
-# Installation
+## Installation
 
-# Prerequisites
+### Prerequisites
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
 - SQLite3 (usually comes pre-installed with Python)
