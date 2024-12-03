@@ -60,6 +60,7 @@ The system allows users to manage a book store database, including adding, updat
    
      - cd book-store-management
 
+
 ## How to Use
 ### Adding a Book
    - Fill in the details such as title, author, year, ISBN, and total quantity, then click Add Book. Make sure to enter the Total field.
@@ -79,8 +80,6 @@ The system allows users to manage a book store database, including adding, updat
    - Click Backup to create a backup of the database in CSV format. The file will be saved in the same directory where the application is running, and the file name is                Books_Backup.csv.
 ### Low Stock
    - Click Low Stock to view books with a quantity lower than 5.
-   ![image](https://github.com/user-attachments/assets/44554fa7-519e-4171-9090-1bb8db67b638)
-
 
 ## File Structure
 
