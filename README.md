@@ -60,31 +60,27 @@ The system allows users to manage a book store database, including adding, updat
    
      - cd book-store-management
 
-## Usage
-
+## How to Use
 ### Adding a Book
-- Fill in the details such as title, author, year, ISBN, and total quantity, then click **Add Book**.
-
+   - Fill in the details such as title, author, year, ISBN, and total quantity, then click Add Book. Make sure to enter the Total field.
+### View All Books
+   - To display all book records, simply click the View All button. This will fetch all the books currently stored in the Database.
 ### Searching for Books
-- To search for a book, fill in any of the fields (Title, Author, Year, ISBN) and click **Search Book**.
-
-### Updating a Book
-- Select a book from the list, fill in the updated information, and click **Update Book**.
-
-### Deleting a Book
-- Select a book and click **Delete selected** to remove it from the database.
-
+  -  To search for a book, fill in any of the fields (Title, Author, Year, ISBN) and click Search Book Advanced Search.
 ### Advanced Search
-- Click **Advanced Search** to search using multiple criteria like title, author, year range, or ISBN.
-
-### Low Stock
-- Click **Low Stock** to view books with a quantity lower than 5.
-
+   - Click Advanced Search to search using multiple criteria like title, author, year range, or ISBN.
+### Updating a Book
+   - To Select a book from the list, fill in the updated information, and click Update Book.
+### Delete Selected (Single Copy)
+   - If you want to delete a specific number of copies of a book, first select the book from the table by clicking on its row. Then, in the Total  input field, enter the number       of copies to be deleted. After entering the number, click the Delete Selected button.
+### Delete All (All Copies)
+   - If you want to completely remove a book from the database, select the desired book from the table by clicking on its row. Then click the Delete All button.
 ### Backup
-- Click **Backup** to create a backup of the database in CSV format.
+   - Click Backup to create a backup of the database in CSV format. The file will be saved in the same directory where the application is running, and the file name is                Books_Backup.csv.
+### Low Stock
+   - Click Low Stock to view books with a quantity lower than 5.
+   ![image](https://github.com/user-attachments/assets/44554fa7-519e-4171-9090-1bb8db67b638)
 
-### Delete All Copies
-- Click **Delete All** to remove all copies of a specific book from the database.
 
 ## File Structure
 
